@@ -74,7 +74,7 @@ public class AntrianLayanan {
         System.out.println("Antrian kosong!");
     } else {
         System.out.println("Mahasiswa paling belakang:");
-        data[rear].tampilData();
+        data[rear].tampilkanData();;
     }
 }
 
